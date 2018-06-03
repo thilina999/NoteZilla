@@ -27,6 +27,9 @@ Hey, I am Dhanuka from SLIIT. This is the first time I have participated a Hacka
 
 Hi I am Nirosh Ubeysinghe from NSBM Green University. First of all I would like to thank Mozilla campus club - UWU for give this great opertunity to learn and make crazy things. This is my first and only foss hackathon I participated ever. I learned more about git github and also how work between android studio and git. It's good experience and also got inspiretional insights about foss contribution.
 
+### (<a href="https://github.com/thilina999">Thilina Dissanayake</a>) - IIT 
+
+Hey, I'm Thilina from IIT. CodeZilla 2018 is the first FOSS contribution hackathon which I was able to participate. I learned more about github documentation, contributor guides, NodeJs and API. Thank you Mozilla Club - UWU for organizing this awesome event.
 
 ### Dilusha Dasanayaka - University of Kelaniya
 
